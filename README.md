@@ -8,4 +8,5 @@ Advance Machine Learning techniques. It also includes kaggle datasets:
 
 
 In deep learning, i tried to implement CNN, autoEncoder, GAN, RNN with tensorflow and Keras.
+I also tried to analyse Natural Language Processing with NLTK.
 
