@@ -1,4 +1,3 @@
-# MachineLearningProjects
 # Machine Learning Projects
 This repository includes some projects that done in my machine learning journey that includes from data visualisation, EDA, to 
 Advance Machine Learning techniques. It also includes kaggle datasets:
