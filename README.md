@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This repository includes some projects that done in my machine learning journey that includes from data visualisation, EDA, to 
+This repository includes some projects that i have done in my machine learning journey that includes from data visualisation, EDA, to 
 Advance Machine Learning techniques. It also includes kaggle datasets:
 
 1) House Prices: Advanced Regression Techniques: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
